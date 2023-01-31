@@ -1,0 +1,43 @@
+img
+{
+    margin: 5px;
+    padding: 0px;
+    border: rgb(0, 0, 0) solid 5px;
+    opacity: 0.9;
+    width: 150px;
+    height: 100px;
+}
+
+img:hover
+{
+    opacity: 1;
+    width: 155px;
+    height: 105px;
+}
+
+body
+{
+    color: rgb(255, 255, 255);
+    background-image: url("tlo.png");
+}
+
+h1
+{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+#naglowek
+{
+    align-items: center;
+    background-color: rgb(138, 184, 245);
+    float: top;
+    height: 90px;
+    padding-top: 10px;
+}
+
+#obrazy
+{
+    align-items: center;
+    text-align: center;
+}
